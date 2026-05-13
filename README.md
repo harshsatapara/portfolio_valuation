@@ -56,6 +56,7 @@ User Query
 | `getConversationRatio` | Fetches real-time exchange rate between two currencies | Conversion rate (float) |
 | `convert` | Converts a monetary value using a given exchange rate | Converted value (float) |
 | `calculator` | Performs arithmetic: `add`, `sub`, `mul`, `div` | Result (float) |
+| `bulk_calculator`| Performs arithmetic: `add`, `sub`, `mul`, `div` (expecting values in List) | Result (float) |
 | `search_tool` | General web search via DuckDuckGo | Search results (string) |
 
 ---
