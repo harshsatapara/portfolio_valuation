@@ -105,6 +105,8 @@ cd portfolio-valuation-agent
 
 ```bash
 python -m venv .venv
+or
+streamlit run main.py
 
 # Windows
 .venv\Scripts\activate
@@ -181,6 +183,8 @@ langchain-core
 python-dotenv
 requests
 duckduckgo-search
+streamlit
+sqlite3
 ```
 
 Full list in `requirements.txt`.
