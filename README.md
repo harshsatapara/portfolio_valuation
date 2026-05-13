@@ -202,7 +202,3 @@ Full list in `requirements.txt`.
 - The agent relies on LLM reasoning to pick the right tools — GPT-4o is strongly recommended over GPT-3.5.
 
 ---
-
-## 📄 License
-
-MIT License. See `LICENSE` for details.
